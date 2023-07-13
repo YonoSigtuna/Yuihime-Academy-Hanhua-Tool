@@ -1,0 +1,13 @@
+{
+    "curr_game_id": 19408,
+    "curr_game_name": "秋空に舞うコンフェティ.exe",
+    "curr_game_hook": "[3:4BD0:4CF2E0:4FA5AA:19FC00:QLiE:HB18*0:-14@CF2E0:秋空に舞うコンフェティ.exe]",
+    "game_list": [
+        {
+            "name": "Purely",
+            "path": "D:\\_GAL\\秋空に舞うコンフェティ\\秋空に舞うコンフェティ.exe",
+            "hook_code": "",
+            "start_mode": "Locale Emulator"
+        }
+    ]
+}
